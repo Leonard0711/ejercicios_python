@@ -1,0 +1,1 @@
+from ejercicios_python import config
